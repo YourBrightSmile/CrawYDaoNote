@@ -1,0 +1,46 @@
+[
+文件文件夹总数
+5,
+
+文件夹名称
+"python",
+
+
+文件夹文件集合
+	[
+		{
+		"nn":1,
+		"pp":{"st":"1","FILE_IDENTIFIER":"d41d8cd98f00b204e9800998ecf8427e","tp":"0","WHOLE_FILE_TYPE":"CHUNKED"},
+		"ps":1,
+		"del":0,
+		"created_product":"",
+		是否为目录
+		"dr":1,
+		"sc":0,
+		"checksum":"d41d8cd98f00b204e9800998ecf8427e",
+		"su":"","d":0,
+		"mt":1501378777,"sz":0,
+		"er":0,"opp":{},
+		"et":0,
+		文件或目录所在路径
+		"p":"/D71B00A9B3DC406BA46D2E181AAB0D1B/B3476FAE25D94DD2B9E7D02FCDE54012",
+		"ct":1501378772,"r":1,"tg":"",
+		"encrypted":0,"au":"","v":22036,
+		"domain":1,
+		"tl":"TEST",
+		"ng":"",
+		"favorite":0,
+		"pv":0},
+		nn 文件夹下的文件数量
+		{"nn":0,"pp":{"FILE_IDENTIFIER":"d41d8cd98f00b204e9800998ecf8427e","tp":"0","WHOLE_FILE_TYPE":"CHUNKED"},"ps":0,"del":0,"created_product":"","dr":1,"sc":0,"checksum":"d41d8cd98f00b204e9800998ecf8427e","su":"","d":0,"mt":1501156632,"sz":0,"er":0,"opp":{},"et":0,"p":"/CF56AA8C2ADB45F99F45E39C373152C8","ct":1501156625,"r":1,"tg":"","encrypted":0,"au":"","v":22026,"domain":1,"tl":"python项目","ng":"","favorite":0,"pv":0},
+		{"nn":8,"pp":{"FILE_IDENTIFIER":"d41d8cd98f00b204e9800998ecf8427e","tp":"0","WHOLE_FILE_TYPE":"CHUNKED"},"ps":0,"del":0,"created_product":"","dr":1,"sc":0,"checksum":"d41d8cd98f00b204e9800998ecf8427e","su":"","d":0,"mt":1501156552,"sz":0,"er":0,"opp":{},"et":0,"p":"/393D83DC4B20473B8922EC05D76C9EC1","ct":1501156537,"r":1,"tg":"","encrypted":0,"au":"","v":21139,"domain":1,"tl":"python基础","ng":"","favorite":0,"pv":0},
+		{"nn":3,"pp":{"FILE_IDENTIFIER":"d41d8cd98f00b204e9800998ecf8427e","tp":"0","WHOLE_FILE_TYPE":"CHUNKED"},"ps":0,"del":0,"created_product":"","dr":1,"sc":0,"checksum":"d41d8cd98f00b204e9800998ecf8427e","su":"","d":0,"mt":1497066734,"sz":0,"er":0,"opp":{},"et":0,"p":"/72147A1BD56144408FF44DC3D871B38A","ct":1497066725,"r":1,"tg":"","encrypted":0,"au":"","v":18502,"domain":1,"tl":"python常用模块","ng":"","favorite":0,"pv":0},
+	
+		{"nn":1,"pp":{"FILE_IDENTIFIER":"d41d8cd98f00b204e9800998ecf8427e","tp":"0","WHOLE_FILE_TYPE":"CHUNKED"},"ps":0,"del":0,"created_product":"","dr":1,"sc":0,"checksum":"d41d8cd98f00b204e9800998ecf8427e","su":"","d":0,"mt":1490703668,"sz":0,"er":0,"opp":{},"et":0,"p":"/C8105034323241C8BE8A9D1CA1DAB370","ct":1490703609,"r":1,"tg":"","encrypted":0,"au":"","v":18878,"domain":1,"tl":"python gray hat","ng":"","favorite":0,"pv":0}
+	],
+
+"D71B00A9B3DC406BA46D2E181AAB0D1B" 
+]
+
+
+/yws/public/notebook/D71B00A9B3DC406BA46D2E181AAB0D1B/subdir/CF56AA8C2ADB45F99F45E39C373152C8
